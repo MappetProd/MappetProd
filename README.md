@@ -1,12 +1,23 @@
-### Hello!
-## Contacts
-  Discord - .mappet
-  Mail - vladimir.maakarov@gmail.com 
-  Leetcode - https://leetcode.com/MappetProd/
+### Hi there, I am Vladimir.
+## Useful links
+  - :link: Discord - .mappet
+  - :link: E-Mail - vladimir.maakarov@gmail.com
+  - :link: Telegram - https://t.me/Justmappet
+  - :link: Leetcode - https://leetcode.com/MappetProd/
 
-## My stack
-  Unity
-  C#
+## Programming languages and Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = 50px height = 50px title = "C#"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width = 50px height = 50px title = "C++"/>&nbsp;
+<img src="https://logos-world.net/wp-content/uploads/2023/01/Unity-Emblem.png" width = 90px height = 50px title = "Unity"/>&nbsp;
+
+## Finished courses
+- Algorithms and Data Structures 3.0 - Yandex
+
+## Languages
+- :globe_with_meridians: Russian (native)
+- :globe_with_meridians: English (between B1 and B2)
+- :globe_with_meridians: Swedish (A1)
+          
 
 <!--
 **MappetProd/MappetProd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
