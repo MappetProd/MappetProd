@@ -9,8 +9,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = 50px height = 50px title = "C#"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width = 50px height = 50px title = "C++"/>&nbsp;
 <img src="https://logos-world.net/wp-content/uploads/2023/01/Unity-Emblem.png" width = 90px height = 50px title = "Unity"/>&nbsp;
-<img src="https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Lua-Logo.svg" width = 50px height = 50px title = "Lua"/>&nbsp;
-<img src="https://commons.wikimedia.org/wiki/File:ROBLOX_Studio_icon.png" width = 50px height = 50px title = "Roblox Studio"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/ROBLOX_Studio_icon.png?20180928015910" width = 50px height = 50px title = "Roblox Studio"/>&nbsp;
+<img src="https://martool.vn/wp-content/uploads/2021/09/Asana-logo.png" width = 50px height = 50px title = "Roblox Studio"/>&nbsp;
 
 ## Finished courses
 - Algorithms and Data Structures 3.0 - Yandex
