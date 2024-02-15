@@ -4,6 +4,7 @@
   - :link: E-Mail - vladimir.maakarov@gmail.com
   - :link: Telegram - https://t.me/Justmappet
   - :link: Leetcode - https://leetcode.com/MappetProd/
+  - :link: itch.io - https://mapppet.itch.io/
 
 ## Programming languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width = 50px height = 50px title = "C++"/>&nbsp;
